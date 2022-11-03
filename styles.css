@@ -52,7 +52,7 @@ li{
     height: 350px;
     width: 600px;
     margin: 35px;
-    margin-top: 25px;
+    margin-top: 20px;
     padding-left: 30px;
     border: 10px solid #87eff5;
     border-radius: 40px;
@@ -61,10 +61,13 @@ li{
     display: flex;
     flex-direction: column;
     height: 350px;
-    width: 700px;
+    width: 800px;
     margin: 35px;
-    margin-top: 25px;
+    margin-top: 20px;
     padding-left: 30px;
     border: 10px solid #22a2f2;
     border-radius: 40px;
+}
+#college{
+    color: #fdffe8;
 }
