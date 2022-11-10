@@ -56,6 +56,7 @@ li{
     padding-left: 30px;
     border: 10px solid #87eff5;
     border-radius: 40px;
+    color: #c5fafc
 }
 #OMSCS{
     display: flex;
@@ -67,7 +68,8 @@ li{
     padding-left: 30px;
     border: 10px solid #22a2f2;
     border-radius: 40px;
+    color: #c5fafc
 }
 #college{
-    color: #c5fafc;
+    color: whitesmoke;
 }
